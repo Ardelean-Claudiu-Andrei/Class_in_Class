@@ -1,0 +1,8 @@
+# ninja log v5
+4	423	6693259244689295	CMakeFiles/lab4_class_in_class.dir/tests.cpp.obj	8b6e9aad181bf1e
+19	351	6693247167404804	CMakeFiles/lab4_class_in_class.dir/main.cpp.obj	db78e1f1e512c1a5
+443	616	6693260239322218	lab4_class_in_class.exe	43830f6197ad9353
+4	443	6693260237623190	CMakeFiles/lab4_class_in_class.dir/patrat.cpp.obj	cea3fc08194dea3e
+4	452	6693261965897154	CMakeFiles/lab4_class_in_class.dir/patrat.cpp.obj	cea3fc08194dea3e
+23	454	6693261965917101	CMakeFiles/lab4_class_in_class.dir/tests.cpp.obj	8b6e9aad181bf1e
+454	622	6693261967578205	lab4_class_in_class.exe	43830f6197ad9353
